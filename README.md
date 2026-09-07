@@ -15,9 +15,9 @@ Abierto a oportunidades de práctica pre-profesional en Backend, Data Engineerin
 - **Languages:** Python, Java, SQL
 - **Backend:** FastAPI, Spring Boot, SQLAlchemy, JWT
 - **Databases:** PostgreSQL, SQL Server, MySQL
-- **Data Engineering & Analytics:** Docker, Airflow, dbt, Power BI, pandas, matplotlib
+- **Data Engineering & Analytics:** Docker, Airflow, dbt, Power BI
 - **Cloud:** Microsoft Azure / Fabric, AWS
 - **AI & Automation:** Claude API, Google ADK, Gemini, Ollama
-- **Productivity:** Git, GitHub, Excel, Microsoft Copilot
+- **Productivity:** Excel, Microsoft Copilot
 
 ---
